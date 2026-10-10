@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Roshan Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 https://github.com/GSSoC24/Postman-Challenge/pull/3125
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanrich&label=Profile%20views&color=0e75b6&style=flat" alt="roshanrich" /> </p>
 
-- 🌱 I’m currently learning **React js and DSA using C++**
+- 🌱 I’m currently learning **Python and Power BI**
 
 - 📫 How to reach me **mrroshansharma28@gmail.com**
 
