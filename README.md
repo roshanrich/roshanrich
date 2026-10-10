@@ -1,26 +1,15 @@
-<h1 align="center">Hi 👋, I'm Roshan Sharma</h1>
-<h3 align="center">A passionate data analyst from India</h3>
-https://github.com/GSSoC24/Postman-Challenge/pull/3125
+# Hi there, I'm Roshan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanrich&label=Profile%20views&color=0e75b6&style=flat" alt="roshanrich" /> </p>
+I am a data enthusiast currently pursuing my M.Tech in Computer Science and Engineering at IIT Patna. I enjoy turning complex datasets into clear, actionable business insights.
 
-- 🌱 I’m currently learning **Python and Power BI**
+💼 **Experience**
+* Previously worked as a Data Analyst Intern at **OnSite Academy** and **Raushbyte Technologies**, where I focused on extracting meaning from data to drive decision-making.
 
-- 📫 How to reach me **mrroshansharma28@gmail.com**
+🛠️ **Tech Stack & Tools**
+* **Databases:** SQL, MySQL
+* **Data Visualization & BI:** Power BI, DAX, Microsoft Excel
+* **Programming:** Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roshan sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan sharma" height="30" width="40" /></a>
-</p>
-
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
-</details>
+🌱 **Currently Working On**
+* Building data-driven applications and web projects (like *Pharmakart*).
+* Documenting my data analytics journey and sharing learnings in public.
